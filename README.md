@@ -10,9 +10,9 @@ This repository is a **starter template** for teaching Spatial Data Science usin
 
 ### Open directly in Colab
 
-[![Open 01_intro in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ORG_OR_USER/REPO_NAME/blob/main/notebooks/01_intro.ipynb)
+[![Open 01_intro in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sjsrey/585s25-test/blob/main/notebooks/01_intro.ipynb)
 
-[![Open 02_spatial_weights in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ORG_OR_USER/REPO_NAME/blob/main/notebooks/02_spatial_weights.ipynb)
+[![Open 02_spatial_weights in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sjsrey/585s25-test/blob/main/notebooks/02_spatial_weights.ipynb)
 
 Replace `ORG_OR_USER/REPO_NAME` with your repo path.
 
